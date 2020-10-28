@@ -1,5 +1,5 @@
-# started-with-jest
-Jest 入门：使用 Jest 运行 JS 单元测试
+# Jest 入门：使用 Jest 运行 JS 单元测试
+<hr>
 
 ### 一，什么是测试？
 用行话说，**测试表示检查我们的代码是否满足一些期望**。<br>
